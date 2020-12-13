@@ -3,11 +3,11 @@
 
 print("File Handling")
 
-abc=open("Saurabh.txt",'w')
-abc.write("Hey Guys, I am Saurabh Pawar \n")
+abc=open("Sakshi.txt",'w')
+abc.write("Hey Guys, I am Sakshi Pawar \n")
 abc.close()
 
 #Append Operation
-abc=open("Saurabh.txt",'a')
+abc=open("Sakshi.txt",'a')
 abc.write("I am amazing \n")
 abc.close()
